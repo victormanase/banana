@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/iaa/banana/MainActivity.java
+ com.iaa.banana.MainActivity
+com/iaa/banana/BuildConfig.java
+ com.iaa.banana.BuildConfig
